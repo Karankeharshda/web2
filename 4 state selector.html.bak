@@ -1,0 +1,32 @@
+<html>
+<head>
+<style>
+        /*   unvisited link   */
+a:link
+{
+    color:blue;
+}
+     /*  visited link  */
+a:visited
+{
+      color:green;
+}
+       /*  mouse over link  */
+a:active
+{
+        color:red;
+
+}
+       /*  selected link   */
+a:active
+{
+      color:yellow;
+}
+</style>
+</head>
+<body bgcolor="pale red">
+<h2>CSS link</h2>
+<p><b><a href="defaut.html"target="-blank">This is a link</a></b></p>
+<p><b>NOTE:</b><font color="black">   In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element.</p></font>
+</body>
+</html>
