@@ -1,0 +1,35 @@
+<html>
+<body>
+<center>
+<form name="Registration form" method="post">
+<h1><b><center>Rgistration form</form></b></h1>
+<br>
+<br>
+<br>
+<table border="0" bgcolor="">
+<tr align="center">
+<th>First Name</th>
+<td><input type="text"></td>
+</tr>
+<tr align="center">
+<th>Last Name</th>
+<td><input type="text"></td>
+</tr>
+<tr align="center">
+<th>Language</th>
+<td><input type="checkbox" name="Language">English<br>
+<td><input type="checkbox" name="Language">Hindi<br>
+<td><input type="checkbox" name="Language">other<br>
+</td>
+</tr>
+<tr align="center">
+<th>Gender</th>
+<td><input type="radio" name="Gender">Male       
+<td><input type="radio" name="Gender">Female
+<td><input type="radio" name="Gender">other
+</tr>
+</form>
+</body>
+</html>
+
+
