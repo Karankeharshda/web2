@@ -1,0 +1,40 @@
+<html>
+<head>
+
+
+<style type="text/css">
+div
+   {
+       width:500px;
+	   border:5px solid #40262d;
+	   
+	   pading-right:15px;
+	   pading-top:15px;
+	   
+	   margin-left:5px;
+	    margin-bottom:20px;
+	
+	   background-color:aqua ;
+	 }
+</style>
+</head>
+<body bgcolor="#ed5e84">
+    <div>
+    
+    <p><font size=10px color="red">About institute of management research and development... RCP IMRD is the Best in North Maharastra Region, having skilled and high qualified...</p></font>
+	
+	</div>
+	 <center> <div>
+    
+    <p><font size=10px color="red">About institute of management research and development... RCP IMRD is the Best in North Maharastra Region, having skilled and high qualified...</p>
+</center>
+	</div>
+	  <div>
+   
+    <p>About institute of management research and development... RCP IMRD is the Best in North Maharastra Region, having skilled and high qualified...</p>
+	
+	</div>
+	</div>
+</body>
+</html>
+
