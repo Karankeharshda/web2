@@ -1,0 +1,40 @@
+<html>
+<head>
+<style>
+ div  h1
+        {
+		       width:300px;
+			   border:10px solid black;
+			   text-decoration:underline;
+			   padding:50px;
+			   margin:20px;
+			   background: gray;
+		}
+div h2
+       {
+	            width:300px;
+			   border:10px solid black;
+			   text-decoration:underline;
+			   padding:50px;
+			   margin:20px;
+			   background: gray;
+		}
+div h3
+        {
+		       width:300px;
+			   border:10px solid  black;
+			   text-decoration:underline;
+			   padding:50px;
+			   margin:20px;
+			   background: gray;
+		}
+</style>
+</head>
+<body bgcolor="#cc0033">
+<div>
+<h1><p>CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.</p></h1>
+<h2><p>CSS stands for Cascading Style Sheets · CSS describes how HTML elements are to be displayed on screen, paper, or in other media · CSS saves a lot of work.</p></h2>
+<h3><p>Cascading Style Sheets, fondly referred to as CSS, is a simple design language intended to simplify the process of making web pages presentable.</p></h3>
+</div>
+</body>
+</html>
