@@ -1,0 +1,17 @@
+<html>
+<head>
+<script type="text/javascript">
+function getvalue()
+{
+	var retval=(window.prompt("enter your name:"));
+	document.write(retval);
+}
+</script>
+</head>
+<body>
+<p>click the following button to see the result:</p>
+<form>
+<input type="button"value="click me" onclick="getvalue()">
+</form>
+</body>
+</html>
